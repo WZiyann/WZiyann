@@ -5,6 +5,6 @@
 -->
 
 ## About Me
-🌐 Languages: C, Python & Java
-🔭 Study Goals: I’m currently learning LLM
-📧 Get in Touch: wang_ziyan2025@163.com
+- 🌐 Languages: C, Python & Java
+- 🔭 Study Goals: I’m currently learning LLM
+- 📧 Get in Touch: wang_ziyan2025@163.com
